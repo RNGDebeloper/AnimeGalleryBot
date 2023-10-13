@@ -1,7 +1,0 @@
-API_ID='23267035'
-API_HASH='a516af48bca80b9f339980650126149c'
-BOT_TOKEN='6177854513:AAHJ1pFLeCSpU5sc8-CDk5JbbxKkTjfZWho'
-MONGO_DB_URL='mongodb+srv://animebot:animesdkbot@cluster0.cybneuo.mongodb.net/?retryWrites=true&w=majority'
-DATABASE_NAME='Cluster0'
-OWNER_ID='5729587090'
-BOT_USERNAME='Its_Komi_Bot'
